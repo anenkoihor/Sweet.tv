@@ -399,15 +399,14 @@ left: 50px;
 
 @media(max-width:440px){
 .second-slider .item img {
-width: 33%;
-padding: 2px;
+    width: 33%;
+    padding: 2px;
 }
 .big-slider {
-top: 220px;
+    top: 220px;
 }
 .textonslider{
-
-padding-right: 0;
+    padding-right: 0;
 }
 
 }
